@@ -12,6 +12,12 @@ requirements.txt
 git+https://github.com/ccthomas/my-python-example#egg=my_python_example
 ```
 
+## Usage
+```bash
+pip3 install pytest
+python3 -m pytest
+```
+
 ## License
 [Apache License](LICENSE)
 

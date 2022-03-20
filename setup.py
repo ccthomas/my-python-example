@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="character-model-python",
+    name="my_python_example",
     version="0.1.0",
     author="ccthomas",
     author_email="ccthom94@gmail.com",
-    description="Python Character Models",
+    description="My Python Example",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/places-and-characters/character-models-python",
+    url="https://github.com/ccthomas/my-python-example",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
