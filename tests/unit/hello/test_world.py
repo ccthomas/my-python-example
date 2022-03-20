@@ -1,5 +1,4 @@
 import pytest
-from sqlalchemy import null
 from my_python_example.hello import world
 
 
